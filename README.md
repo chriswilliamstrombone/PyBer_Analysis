@@ -25,7 +25,7 @@
 
 
 
-![Pyber_Fare_summary.png](Analysis/Pyber_Fare_summary.png)
+![Pyber_fare_summary.png](Analysis/Pyber_fare_summary.png)
 
 - This graph is representitive of the following:
     - There is a larger use of PyBer ridesharing in urban cities than the other two types.
